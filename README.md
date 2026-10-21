@@ -1,6 +1,6 @@
 ﻿# PPG-serial-monitor
  
-![nn](https://ifh.cc/g/9wbHa8.png)
+![nn](/images/ppg_monitor.png)
 
 # PPG Signal Monitor
 
